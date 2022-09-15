@@ -11,6 +11,6 @@
 # GitHub Repository link
 <a href="https://github.com/vinitapp/WorkDayScheduler.git">Work Day Scheduler</a>
 
-* Screenshots
+# Screenshots
 <img src = ".assets/images/WorkDayPlan.png" alt="Planner">
 <img src = ".assets/images/pastPresentFuture.png" alt="Color change">
