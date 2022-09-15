@@ -35,6 +35,9 @@ let schedule2pm = $("#2PM");
 let schedule3pm = $("#3PM");
 let schedule4pm = $("#4PM");
 let schedule5pm = $("#5PM");
+let schedule6pm = $("#6PM");
+let schedule7pm = $("#7PM");
+let schedule8pm = $("#8PM");
 
 let scheduleElArray = [
     schedule9am,
@@ -46,6 +49,9 @@ let scheduleElArray = [
     schedule3pm,
     schedule4pm,
     schedule5pm,
+    schedule6pm,
+    schedule7pm,
+    schedule8pm,
 ];
 
 renderLastRegistered();
