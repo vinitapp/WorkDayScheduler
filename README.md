@@ -8,8 +8,11 @@
 <li>JQuerry</li>
 <li>Bootstrap</li>
 
-# GitHub Repository link
-<a href="https://github.com/vinitapp/WorkDayScheduler.git">Work Day Scheduler</a>
+# GitHub Repository Link
+<a href="https://github.com/vinitapp/WorkDayScheduler.git">Work Day Scheduler Repository</a>
+
+# Deployed Website Link
+<a href="https://vinitapp.github.io/WorkDayScheduler/"> Work Day Scheduler</a>
 
 # Screenshots
 <img src = "./assets/images/WorkDayPlan.png" alt="Planner">
